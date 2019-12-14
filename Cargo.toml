@@ -1,0 +1,11 @@
+[package]
+name = "frc-chipobject-sys"
+version = "0.1.0"
+authors = ["David Vo <david@vovo.id.au>"]
+edition = "2018"
+links = "RoboRIO_FRC_ChipObject"
+build = "build.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
